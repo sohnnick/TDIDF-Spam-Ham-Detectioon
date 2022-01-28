@@ -1,7 +1,7 @@
 # TF-IDF YouTube Spam/Ham Detection
-Datasource found here: https://archive.ics.uci.edu/ml/datasets/YouTube+Spam+Collection.
+<strong>Datasource:</strong> https://archive.ics.uci.edu/ml/datasets/YouTube+Spam+Collection.
 <br>
-Course: DSCI - Applied Machine Learning
+<strong>Course:</strong> DSCI - Applied Machine Learning
 
 ### Summary
 Utilized Python's Sklearn library to determine whether a YouTube comment is Spam or Ham. Converted text data into a Term Frequency-Inverse Document Frequency statistic to run Logistic Regression and Naive Bayes Classifier.
