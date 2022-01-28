@@ -3,7 +3,6 @@ Datasource found here: https://archive.ics.uci.edu/ml/datasets/YouTube+Spam+Coll
 <br>
 Course: DSCI - Applied Machine Learning
 
-<hr>
 ### Summary
 Utilized Python's Sklearn library to determine whether a YouTube comment is Spam or Ham. Converted text data into a Term Frequency-Inverse Document Frequency statistic to run Logistic Regression and Naive Bayes Classifier.
 
